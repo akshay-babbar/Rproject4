@@ -1,3 +1,5 @@
-custom=function{
+custom=function(){
 print('Hello World')
 }
+
+#Strategic Affairs
